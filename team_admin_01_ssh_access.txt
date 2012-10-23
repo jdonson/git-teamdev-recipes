@@ -1,0 +1,11 @@
+UrbanSpectra, OSS Team Admin Recipe
+
+=> "OSS Team Admin: SSH Setup New Developer On Linux Team Dev Host"
+
+Author GitHub ID:  jdonson
+
+PURPOSE:  To guide sys admin through linux host set up process for a new dev.
+
+1.  Receive email request cc from new dev form.
+
+2.  Verify this dev is approved for 

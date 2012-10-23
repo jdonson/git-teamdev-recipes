@@ -1,0 +1,26 @@
+REQUEST FORM FOR NEW URBANSPECTRA UI DEV:
+
+1.  First Name
+
+2.  Last Name
+
+3.  GitHub ID
+
+4.  Email Address
+
+5.  Skype ID
+
+6.  Localhost Operating System
+
+7.  For which github project are you requesting access to contribute?
+
+8.  Familiar with Git/Github?
+
+9.  Familiar with Linux Basic and SSH Connectivity?
+
+Request Approvals By:     jjdonson@gmail.com   Jeremy
+
+New UI Dev Setups By:     re.bahoum@gmail.com  Reda
+
+
+

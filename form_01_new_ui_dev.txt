@@ -18,9 +18,7 @@ REQUEST FORM FOR NEW URBANSPECTRA UI DEV:
 
 9.  Familiar with Linux Basic and SSH Connectivity?
 
-Request Approvals By:     jjdonson@gmail.com   Jeremy
+Request Approvals By:     Name: Jeremy Donson   Github ID: jdonson    Email: jjdonson@gmail.com
 
-New UI Dev Setups By:     re.bahoum@gmail.com  Reda
-
-
+New UI Dev Setups By:     Name: Jeremy Donson   Github ID: jdonson    Email: jjdonson@gmail.com
 

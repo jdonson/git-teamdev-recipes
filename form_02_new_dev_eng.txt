@@ -1,0 +1,31 @@
+REQUEST FORM FOR FIRST LINUX HOST ACCESS BY DEVS:
+
+1.  First Name
+
+2.  Last Name
+
+3.  GitHub ID
+
+4.  Email Address
+
+5.  Skype ID
+
+6.  Localhost Operating System
+
+7.  For which github project(s) are you requesting access to contribute?
+
+8.  Familiar with Git/Github?
+
+9.  Familiar with Linux Basic and SSH Connectivity?
+
+10. Preferred linux account user name?
+
+11. Public ssh key for secure linux access.
+
+SSH questions start here: http://www.ece.uci.edu/~chou/ssh-key.html
+
+Request First Linux Host Account Approvals By:
+Name: Jeremy Donson   Github ID: jdonson    Email: jjdonson@gmail.com
+
+New Linux Dev Account Setups By:  Name: Reda   Github ID: thesolver1   Email: re.bahoum@gmail.com
+

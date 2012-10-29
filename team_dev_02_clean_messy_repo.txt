@@ -1,0 +1,118 @@
+These are the sections of a recipe:
+
+*************************************************************************
+****************A. Goal = To clean up messy repo*************************
+*************************************************************************
+
+
+
+
+****************B. PREREQUISITES ****************************************
+
+
+1.Git installed and github access
+
+  //Can be downloaded for different servers
+
+  Download Github:  http://windows.github.com/help.html  
+
+
+  Step 1: Install github in to the local computer  
+  
+  Step 2: Follow #2 below
+
+  
+  
+
+  //For linux server commands
+
+  Download Git Bash: https://openhatch.org/missions/windows-setup/install-git-bash  
+
+  
+ 
+  
+  *****************GITHUB REPO ACCESS******************************
+
+
+2.Create an account in github
+    
+     step 1:http://www.github.com
+    
+     step 2:Sign up
+
+     step 3:Get Login details                          //Account opened userid and password for github generated
+
+
+3.Login to github   (locall installed in the system)   //Installed in the local computer using the username & password created in the www.github.com
+
+  
+  step 1: Clone repo 
+
+  step 2: Save repo in the root directory of the php server  //c:/xampp/htdocs/repo
+
+  
+ 
+
+  
+  *****NULL COMMIT TO THE REPO****
+
+
+4.Open gitbash
+
+  
+  Enter : $ c:/xampp/htdocs/repo
+ 
+  Enter : $ git status              //shows the current status of the repo
+
+  or
+ 
+  Enter : $ ls                      //shows the current status of the repo
+      
+
+  
+  *********Checking  git connected to the github server  //http:www.github.com ******************************
+
+ 
+  step 1: Open a file in the repo from the php server           //c:/xampp/htdocs/repo/...
+
+  step 2: Add a comment in the file
+
+  step 3: Save it
+
+  step 4: Open git bash prompt
+
+  step 5: Specify the root of the repo                           // $ c:/xampp/htdocs/repo
+
+  step 6: Type git add   .                                       // $ git add .  [Notice that there is a space between add and period]
+
+  step 7: Type git commit -m "first null commit"                 // This saves the null commit in git bash
+
+  step 8: Type  git push                                         //It pushes the changes to the github.com
+
+  step 9: Type git status/ls                                     //command on git bash to find the current status of the repo
+
+  
+  
+ ***********PRESERVE WORK,PURGE ALL AND REPLACE WITH AT REPO ROOT****************
+
+
+5.Login to the github  http://github.com
+
+ 
+  step 1: check the repo has been updated with the comment you have entered
+
+
+
+ ************git bash commands**************************
+
+ 1.git status
+ 
+ 2.git add .
+
+ 3.git commit -m "comment"
+
+ 4.git ls
+
+ 5.git pull
+
+ 6.git push
